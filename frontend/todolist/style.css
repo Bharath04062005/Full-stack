@@ -1,0 +1,30 @@
+body{
+    height:100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+}
+#container{
+       width:500px;
+       height:300px;
+display: flex;
+text-align: center;
+align-items: center;
+justify-content: center;
+flex-direction: column;       
+
+}
+#add{
+    
+    background-color: blueviolet;
+}
+#add:hover{
+    background-color: PINK;
+}
+h1,h2{
+    color:blue);
+}
+ul{
+    color:red;
+}
